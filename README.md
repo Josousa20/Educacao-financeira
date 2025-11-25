@@ -40,7 +40,7 @@ https://github.com/Josousa20/Educacao-financeira
 - PHP  
 - HTML  
 - MySQL  
-- CSS (para layout responsivo)  
+  
 
  Objetivo Final
 Disponibilizar uma plataforma simples e eficiente que auxilie o usuário a gerenciar melhor suas finanças, aplicando conceitos de educação financeira de forma prática e intuitiva.
