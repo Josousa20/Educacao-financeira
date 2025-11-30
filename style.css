@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
     margin: 0;
     padding: 0;
@@ -13,13 +13,13 @@ body {
     padding: 40px;
 }
 
-/* Títulos */
+
 h1, h2 {
     color: #2c3e50;
     margin-bottom: 20px;
 }
 
-/* Links */
+
 a {
     text-decoration: none;
     color: #3498db;
@@ -30,7 +30,7 @@ a:hover {
     color: #2c3e50;
 }
 
-/* Formulário */
+
 form {
     background: #ffffff;
     padding: 25px;
@@ -54,7 +54,6 @@ input[type="number"]:focus {
     outline: none;
 }
 
-/* Botão */
 button {
     background-color: #3498db;
     color: #fff;
@@ -68,7 +67,6 @@ button:hover {
     background-color: #2980b9;
 }
 
-/* Resultado - Dashboard */
 .result {
     display: flex;
     justify-content: space-between;
@@ -93,20 +91,20 @@ button:hover {
     font-size: 16px;
 }
 
-/* Cores específicas */
+
 .necessidades {
-    background-color: #e67e22; /* laranja */
+    background-color: #e67e22; 
 }
 
 .desejos {
-    background-color: #3498db; /* azul */
+    background-color: #3498db; 
 }
 
 .poupanca {
-    background-color: #27ae60; /* verde */
+    background-color: #27ae60; 
 }
 
-/* Tabela histórico */
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -136,7 +134,7 @@ tr:hover {
     background-color: #e1f0ff;
 }
 
-/* Responsividade */
+
 @media (max-width: 600px) {
     body {
         padding: 20px;
