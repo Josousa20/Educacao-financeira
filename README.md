@@ -14,13 +14,13 @@ Além disso, o sistema oferecerá dicas de educação financeira , incentivando 
 
 
 # Descrição do Sistema
-O projeto consiste na criação de um site dinâmico em PHP, seguindo o padrão MVC.  
-Utilizaremos MySQL para gerenciar a base de dados, garantindo eficiência nas consultas.  
+O projeto consiste na criação de um site dinâmico em PHP, utilizando MySQL para gerenciar a base de dados, garantindo eficiência nas consultas.
 
-O sistema incluirá autenticação de usuários, formulários interativos e validações de entrada para aumentar a segurança.  
-O design será responsivo, garantindo que o site funcione bem em diferentes dispositivos.  
+O sistema inclui formulários interativos para cálculo da regra 50/30/20 e um CRUD básico para gerenciamento de dicas financeiras, com operações de criar, ler, atualizar e excluir.
 
-O foco será na organização do código, escalabilidade e implementação de boas práticas de segurança
+O design é responsivo e moderno, garantindo que o site funcione bem em diferentes dispositivos, com uma interface clara e intuitiva.
+
+O código é organizado de forma funcional e utiliza boas práticas como prepared statements para segurança básica nas operações com banco de dados.
 
 ## 🔗 Link do Repositório
 https://github.com/Josousa20/Educacao-financeira
