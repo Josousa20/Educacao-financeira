@@ -1,0 +1,1 @@
+SELECT * FROM `calculadora` WHERE 1
